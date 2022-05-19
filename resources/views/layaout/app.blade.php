@@ -13,7 +13,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js"></script>
 
     <script src="https://kit.fontawesome.com/479a3ade84.js" crossorigin="anonymous"></script>
-
     <!-- Fonts -->
 
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
